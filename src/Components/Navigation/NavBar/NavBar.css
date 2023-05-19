@@ -1,0 +1,10 @@
+.Navbar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 0 1rem;
+    box-sizing: border-box;
+    background: transparent;
+    z-index: 1;
+}   

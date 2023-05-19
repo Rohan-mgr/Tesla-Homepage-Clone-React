@@ -1,0 +1,2 @@
+export const CLICK_MENU_BTN = "CLICK_MENU_BTN";
+export const CLICK_CLOSE_BTN = "CLICK_CLOSE_BTN";
